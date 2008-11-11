@@ -1,0 +1,11 @@
+libfreebob: FreeBoB (A driver for Firewire BeBoB devices)
+libfreebob:
+libfreebob: FreeBoB is a Linux driver for BeBoB devices.  BeBoB devices are
+libfreebob: audio breakout boxes attached with IEEE1394 links (a.k.a FireWire
+libfreebob: or iLink).
+libfreebob: The FreeBob library permits discovering and configuring BeBoB
+libfreebob: devices.
+libfreebob:
+libfreebob:
+libfreebob:
+libfreebob: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>

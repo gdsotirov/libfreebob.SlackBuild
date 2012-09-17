@@ -1,8 +1,8 @@
-cxxlibs >= 6.0.10 | gcc-g++ >= 4.3.3
-gcc >= 4.3.3
-glibc-solibs >= 2.9
+cxxlibs >= 6.0.14 | gcc-g++ >= 4.5.2
+gcc >= 4.5.2
+glibc-solibs >= 2.13
 libavc1394 >= 0.5.3
-libiec61883 >= 1.1
-libraw1394 >= 2.0.2
-libxml2 >= 2.7.3
-zlib >= 1.2.3
+libiec61883 >= 1.2
+libraw1394 >= 2.0.9
+libxml2 >= 2.7.8
+zlib >= 1.2.5
